@@ -1,2 +1,2 @@
-# Xerif-CI
+# Xerif-QA
 Map your project
