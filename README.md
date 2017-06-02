@@ -1,2 +1,2 @@
-# xerif-ci.github.io
+# Xerif-CI
 Map your project
